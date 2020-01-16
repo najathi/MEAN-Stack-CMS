@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "tMfsfowoGt1XooAO",
+    "MONGO_ATLAS_USER": "najathi",
+    "MONGO_ATLAS_DB": "node-angular",
+    "JWT_KEY": "secret_this_should_be_longer"
+  }
+}
